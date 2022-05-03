@@ -1,1 +1,2 @@
-# Artificial Intelligence
+## Artificial Intelligence
+- Naive Bayes Classification 
